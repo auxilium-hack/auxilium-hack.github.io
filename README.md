@@ -20,4 +20,4 @@ As an aside: if you notice areas on grounds that are extremely limited with thei
 
 
 # How the App looks
-put pretty pictures here
+<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
