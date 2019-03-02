@@ -1,35 +1,34 @@
-# Landing Page Jekyll theme
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+url: http://yoursite.com
+title: Your Awesome Site
+email: your-email@domain.com
+author: Your Name
+description: > # "Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
+  description.
+copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+# Build settings
+markdown: kramdown
+permalink: pretty
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
-
-===
-
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url:
