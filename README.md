@@ -20,4 +20,5 @@ As an aside: if you notice areas on grounds that are extremely limited with thei
 
 
 # How the App looks
+![Alt text](relative/path/to/op-amp-linearity.PNG?raw=true "Title")
 <img src="images/op-amp-linearity.PNG>
