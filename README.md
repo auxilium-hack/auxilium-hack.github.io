@@ -20,5 +20,5 @@ As an aside: if you notice areas on grounds that are extremely limited with thei
 
 
 # How the App looks
-![Alt text](relative/path/to/op-amp-linearity.PNG?raw=true "Title")
-<img src="images/op-amp-linearity.PNG>
+![inverting log amp freq domain](https://user-images.githubusercontent.com/48157291/53688065-f7a17900-3d0b-11e9-8787-67f72c215a42.png)
+
