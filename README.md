@@ -1,3 +1,4 @@
+remote_theme: https://jekyllthemes.io/theme/landing-page-theme
 # AUXILIUM Mission
 Here to help! The Auxilium App is an app focused on finding handicap accessibility ammenities in real time.  (add description of stuff)
 # It's a Community!
